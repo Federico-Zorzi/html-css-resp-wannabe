@@ -159,12 +159,24 @@ img {
     width: 100%;
   }
 
+  .steps {
+    margin: 3rem 0 0;
+  }
+
   .steps .col {
     width: 100%;
   }
 
+  .why-us {
+    margin-bottom: 0rem;
+  }
+
+  .why-us .container {
+    padding: 3rem;
+  }
+
   .why-us .col-left {
-    width: 80%;
+    width: 90%;
   }
 
   .why-us .col-right {
@@ -172,6 +184,6 @@ img {
   }
 
   .why-us .container {
-    background-color: #1939d4;
+    background-color: #222;
   }
 }
