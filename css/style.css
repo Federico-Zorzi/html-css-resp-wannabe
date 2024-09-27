@@ -151,6 +151,24 @@ img {
     display: flex;
     flex-direction: column;
     flex-wrap: wrap;
+    align-items: center;
+    gap: 50px;
+  }
+
+  .lessons .col {
+    width: 100%;
+  }
+
+  .steps .col {
+    width: 100%;
+  }
+
+  .why-us .col-left {
+    width: 80%;
+  }
+
+  .why-us .col-right {
+    width: 100%;
   }
 
   .why-us .container {
