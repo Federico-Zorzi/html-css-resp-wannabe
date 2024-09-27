@@ -131,17 +131,17 @@ img {
 /* TABLET 768px */
 @media screen and (max-width: 768px) {
   .container {
-    width: 800px;
+    width: 100%;
   }
 
   .site-header {
-    width: 800px;
+    width: 100%;
     margin: 0 auto;
     padding: 0 20px;
   }
 
   .steps {
-    width: 800px;
+    width: 100%;
   }
 }
 
