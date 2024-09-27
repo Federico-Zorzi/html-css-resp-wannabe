@@ -144,3 +144,16 @@ img {
     width: 800px;
   }
 }
+
+/* MOBILE 480px */
+@media screen and (max-width: 480px) {
+  .row {
+    display: flex;
+    flex-direction: column;
+    flex-wrap: wrap;
+  }
+
+  .why-us .container {
+    background-color: #1939d4;
+  }
+}
