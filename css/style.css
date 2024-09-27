@@ -128,21 +128,15 @@ img {
     SOLUZIONE RESPONSIVE
  ************************************************/
 
-/* TABLET 768px */
-@media screen and (max-width: 768px) {
+/* TABLET 1160px */
+@media screen and (max-width: 1160px) {
   .container {
     width: 100%;
   }
+}
 
-  .site-header {
-    width: 100%;
-    margin: 0 auto;
-    padding: 0 20px;
-  }
-
-  .steps {
-    width: 100%;
-  }
+/* TABLET 768px */
+@media screen and (max-width: 768px) {
 }
 
 /* MOBILE 480px */
